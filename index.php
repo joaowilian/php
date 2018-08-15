@@ -1,6 +1,8 @@
 <? php
 
+
 echo "olá mundo pequeno"
-echo "olá mundo grande"
+echo "olá php"
+
 
 ?>
